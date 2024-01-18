@@ -872,6 +872,8 @@ Operations for vectors and matrices
 .. autofunction:: diag
 .. autofunction:: trace
 .. autofunction:: matmul
+.. autofunction:: hypot
+.. autofunction:: normalize
 
 
 Operations for complex values and quaternions
